@@ -8,4 +8,4 @@ GhostLog原仓库已经很久没更新了，把代码拷下来改了改，能run
 注意要在root手机里能运行。
 
 演示截图：
-![image](https://github.com/fengxch/GhostLogUpdatey/blob/master/image/.png)
+![image](https://github.com/fengxch/GhostLogUpdate/blob/master/image/screenshot.png)
